@@ -1,0 +1,4 @@
+#pragma once
+LIBRARY Export 
+EXPORTS 
+Toplam @1
